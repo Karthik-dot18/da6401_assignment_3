@@ -1,0 +1,13 @@
+requirements = """torch
+numpy
+matplotlib
+scikit-learn
+wandb
+datasets
+spacy
+tqdm
+sacrebleu
+nltk
+gdown
+evaluate
+"""
